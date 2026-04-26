@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad
 
 🚀 Founder of **Makvix** (Oman 🇴🇲)
-🚗 Building **Aurovix** — AI-powered car platform
+🚗 Building **Aurovix**  AI-powered car platform
 
 ---
 
