@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Building+Aurovix+🚗;Full-Stack+Developer;React+%7C+Node+%7C+FastAPI;Turning+ideas+into+real+products)
+![Typing](https://readme-typing-svg.demolab.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&pause=1200&duration=3500&repeat=true&lines=Building+Aurovix+🚗;Full-Stack+Developer;React+%7C+Node+%7C+FastAPI;Turning+ideas+into+real+products)
 # 👋 Hi, I'm Mohammad
 
 🚀 Founder of **Makvix** (Oman 🇴🇲)
