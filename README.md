@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad
 
-<!--
-**mrmcf/mrmcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of **Makvix** (Oman 🇴🇲)
+🚗 Building **Aurovix** — AI-powered car platform
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 10+ years experience in software development
+* Building real-world products (web + mobile + backend)
+* Focused on performance, clean architecture, and scalable systems
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* React / Vite
+* React Native
+* Flutter
+
+**Backend**
+
+* Node.js
+* FastAPI
+* ASP.NET
+
+**Databases**
+
+* PostgreSQL
+* MongoDB
+* SQL Server
+
+**Other**
+
+* WordPress
+* Network & Security
+
+---
+
+## 🚗 Main Project
+
+### 🔥 Aurovix
+
+AI-powered car platform with:
+
+* Smart vehicle management
+* Marketplace (sale & rent)
+* Subscription system
+* Alerts & automation
+
+---
+
+## ⚙️ What I Do
+
+* Full-stack development
+* System design & architecture
+* API & backend engineering
+* UI/UX-focused frontend
+
+---
+
+## 📫 Contact
+
+* 🌐 https://makvix.com
+
+---
+
+⭐ Building products, not just code.
