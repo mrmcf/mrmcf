@@ -64,9 +64,8 @@ AI-powered car platform with:
 
 ## 📫 Contact
 
-* 🌐 https://aurovix.org
 * 🌐 https://makvix.com
 
 ---
 
-⭐ Building products, not just code.  خوبه
+⭐ Building products, not just code
